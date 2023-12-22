@@ -1,2 +1,1 @@
-# crypto-ex
-Cryptographic exploits.
+# cryptography
